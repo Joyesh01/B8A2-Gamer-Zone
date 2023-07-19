@@ -43,7 +43,10 @@ nav {
 .logo-img {
     margin-top: 0.4rem;
 }
-
+.bdimg{
+    width: 2rem;
+    height: 2rem;
+}
 .menu {
     color: #3C354F;
     text-align: center;
